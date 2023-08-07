@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Urveesh Mathur</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Urveesh Mathur</h1>
 <h3 align="center">A passionate frontend developer from India</h3><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=urveesh28&label=Profile%20views&color=0e75b6&style=flat" alt="urveesh28" /> </p>-->
@@ -31,6 +31,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=urveesh28&theme=tokyonight&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urveesh28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
+<br>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urveesh28&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   
+  </tr>
+</table>
+<!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=radical"  display=block width=70% height=auto  alt="1" >-->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
@@ -38,7 +48,9 @@
 
 
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urveesh28&label=Profile%20views&color=0e75b6&style=flat" alt="urveesh28" /> </p>
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
