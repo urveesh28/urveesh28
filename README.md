@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **sharpening my web-dev skills**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Web Development and DSA in JAVA**
 
-- 👯 I’m looking to collaborate on **front-end projects**
+- 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **C,JAVA**
+- 💬 Ask me about **C,JAVA,PYTHON**
 
 - 📫 How to reach me **urveeshm123@gmail.com**
 
