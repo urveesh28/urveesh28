@@ -1,7 +1,9 @@
-
+![logo](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+<br>
+<hr>
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Urveesh Mathur</h1>
-<h3 align="center">A passionate frontend developer from India</h3><br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate developer from India</h3><br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=urveesh28&label=Profile%20views&color=0e75b6&style=flat" alt="urveesh28" /> </p>-->
 
 - 🔭 I’m currently working on **sharpening my web-dev skills**
@@ -30,6 +32,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=urveesh28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=urveesh28&theme=tokyonight&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=urveesh28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+
+
 
 <br>
 <table>
